@@ -5,7 +5,7 @@
 
 - 🌱 I’m planning to learn **React.js**
 
-- 🤝 I’m looking for help with **Front End Development with html,css,js**
+- 🤝 I’m currently learning **Front End Development with html,css,js**
 
 - 💬 Ask me about **anything**
 
