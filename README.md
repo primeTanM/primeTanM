@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything**
 
-- ⚡ Fun fact **I sketch a lot**
+- ⚡ Fun fact : **I sketch a lot**
 
 
 <h3 align="left">Languages and Tools:</h3>
