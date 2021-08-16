@@ -16,7 +16,7 @@
 # Tanmay Misra 😎
  📫 Reach me: <br>
 - <a href = "https://www.linkedin.com/in/tanmay-misra-8888b6200/">![image](https://user-images.githubusercontent.com/55577276/120760717-11a51400-c532-11eb-84d7-1f0964849d1e.png)</a>
-[https://www.linkedin.com/in/tanmay-misra-8888b6200/](https://www.linkedin.com/in/tanmay-misra-8888b6200/)
+[https://www.linkedin.com/in/tanmay-misra-8888b6200/](https://www.linkedin.com/in/tanmay-misra/)
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanmaymisra6199@gmail.com)](mailto:tanmaymisra619@gmail.com) tanmaymisra619@gmail.com
 
 
