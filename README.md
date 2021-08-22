@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanmay Misra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently learning **React.js**
+
+- 🔭 I’m currently learning **Data Structures and Algorithms**
+
+- ⚡ I have experince in **Machine Learning and Data Science**
 
 - 💬 Ask me about **anything**
 
@@ -9,11 +12,10 @@
 
 ---
 
-# Tanmay Misra 😎
  📫 Reach me: <br>
-- <a href = "https://www.linkedin.com/in/tanmay-misra-8888b6200/">![image](https://user-images.githubusercontent.com/55577276/120760717-11a51400-c532-11eb-84d7-1f0964849d1e.png)</a>
-[https://www.linkedin.com/in/tanmay-misra/](https://www.linkedin.com/in/tanmay-misra/)
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanmaymisra6199@gmail.com)](mailto:tanmaymisra619@gmail.com) tanmaymisra619@gmail.com
+- <a href = "https://www.linkedin.com/in/tanmay-misra/">![image](https://user-images.githubusercontent.com/55577276/120760717-11a51400-c532-11eb-84d7-1f0964849d1e.png)</a>
+
+- ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanmaymisra6199@gmail.com)
 
 
 ---
