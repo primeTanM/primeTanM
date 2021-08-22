@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Misra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on front-end challenges from [Frontend Mentor](https://www.frontendmentor.io/solutions)
-
-- 🌱 I’m planning to learn **React.js**
-
-- 🤝 I’m currently learning **Front End Development with html,css,js**
+- 🔭 I’m currently learning **React.js**
 
 - 💬 Ask me about **anything**
 
