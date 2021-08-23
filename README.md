@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently learning **Data Structures and Algorithms**
 
-- ⚡ I have experince in **Machine Learning and Data Science** & **Front End Development**(HTML,CSS,Vanilla js)
-
+- ⚡ I have experince in **Machine Learning and Data Science**
 - ⚡ I have experince in **Front End Development**(HTML,CSS,Vanilla js)
 
 - 💬 Ask me about **anything**
