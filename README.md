@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=primetanm&theme=dark&show_icons=true&locale=en" alt="primetanm" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primetanm&" alt="primetanm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primetanm&theme=dark" alt="primetanm" /></p>
 
