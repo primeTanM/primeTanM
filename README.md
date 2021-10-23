@@ -13,11 +13,8 @@
 
 ---
 
- 📫 Reach me: <br>
-- <a href = "https://www.linkedin.com/in/tanmay-misra/">![image](https://user-images.githubusercontent.com/55577276/120760717-11a51400-c532-11eb-84d7-1f0964849d1e.png)</a>
-
-- ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanmaymisra6199@gmail.com)
-
+ 📫 Find Me On: <br>
+- <a href = "https://www.linkedin.com/in/tanmay-misra/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tanmaymisra6199@gmail.com)
 
 ---
 
