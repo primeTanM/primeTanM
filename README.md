@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Misra</h1>
-![](https://komarev.com/ghpvc/?username=primeTanM&style=flat-square)
+<p><img align="center" src="https://komarev.com/ghpvc/?username=primeTanM&style=flat-square" alt="primetanm" /></p>
 
 
 - 🔭 I’m currently learning **React.js**
