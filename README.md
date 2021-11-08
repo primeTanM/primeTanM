@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Misra</h1>
-![Visitor Count](https://profile-counter.glitch.me/{primeTanM}/count.svg)
+![](https://komarev.com/ghpvc/?username=primeTanM&style=flat-square)
+
 
 - 🔭 I’m currently learning **React.js**
 
