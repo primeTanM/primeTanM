@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmay Misra</h1>
 <p><img align="center" src="https://komarev.com/ghpvc/?username=primeTanM&style=flat-square" alt="primetanm" /></p>
+<h3 align="center">A passionate programmer who is interested in Problem Solving and Web Development</h3>
 
 
-- 🔭 I’m currently learning **Next.js**
+- 🔭 I’m currently learning **Node.js**
 
 - 🔭 I’m currently learning **Data Structures and Algorithms**
 
@@ -18,6 +19,7 @@
 ## 📫 Find Me On: 
 <a href = "https://www.linkedin.com/in/tanmay-misra/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://medium.com/@tanmaymisra619">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://dev.to/primetanm">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 <a href="https://dev.to/primetanm">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
 ---
