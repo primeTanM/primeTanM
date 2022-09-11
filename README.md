@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tanmay Misra</h1>
-<p><img align="center" src="https://komarev.com/ghpvc/?username=primeTanM&style=flat-square" alt="primetanm" /></p>
 <h3 align="center">A passionate programmer who is interested in Problem Solving and Web Development</h3>
 
 
