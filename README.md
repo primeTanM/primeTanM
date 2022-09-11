@@ -2,15 +2,11 @@
 <h3 align="center">A passionate programmer who is interested in Problem Solving and Web Development</h3>
 
 
-- 🔭 I’m currently learning **Node.js**
-
-- 🔭 I’m currently learning **Data Structures and Algorithms**
-
+- 🔭 I’m currently learning **Node.js(Backend Development)**
 - ⚡ I have experience in **Machine Learning and Data Science**
 - ⚡ I have experience in **Front End Development**(HTML,CSS,Vanilla js,React Js)
-
+- ⚡ I have interest in **Competitive Coding**
 - 💬 Ask me about **anything**
-
 - ✏️ Fun fact : **I love Sketching**
 
 ---
@@ -19,7 +15,10 @@
 <a href = "https://www.linkedin.com/in/tanmay-misra/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://medium.com/@tanmaymisra619">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://dev.to/primetanm">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
-<a href="https://dev.to/primetanm">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
+<a href="https://auth.geeksforgeeks.org/user/tmisra873">![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)</a>
+<a href="https://leetcode.com/primeTanM/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://www.codechef.com/users/tincoder_999">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+<a href="https://www.hackerrank.com/tanmay_misra2019">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
 ---
 
