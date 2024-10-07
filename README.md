@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmay Misra</h1>
-<h3 align="center">A passionate programmer who is interested in Problem Solving and Web Development</h3>
+<h3 align="center">A Software Engineer passionate in problem solving and development</h3>
 
 
 
-- 🔭 I’m currently learning **Node.js(Backend Development)**
-- ⚡ I have experience in **Machine Learning and Data Science**
-- ⚡ I have experience in **Front End Development**(HTML,CSS,Vanilla js,React Js)
-- ⚡ I have interest in **Competitive Coding**
+- ⚡ I have experience in **Full Stack Development(React/Vue + Node/springboot)**
 - 💬 Ask me about **anything**
 - ✏️ Fun fact : **I love Sketching**
 
